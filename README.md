@@ -5,6 +5,8 @@
 
 For simplicity, we'll deploy our Mattermost server using an acorn image.
 
+## Limitations 
+* Voice and video streaming does not work via this acorn deployment.  That's due to issues with specifying an external port.
 
 ## What is Acorn?
 Acorn is a new cloud platform that allows you to easily deploy, develop and manage web services with containerization.  A single acorn image can deploy all that you need: from a single container webserver, to a multi service Kubernetes cluster with high availability.  Don't worry if you don't understand what all those terms mean; we don't have to know that in order to deploy our server.
