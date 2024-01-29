@@ -54,31 +54,27 @@ Visit your acorn dashboard to see if your deployment was successful.
 
 Click on the mattermost deployment, and find the endpoint section on the right side panel.  This is your mattermost instance link.
 
-![mattermost_acorn_ui]()
+![mattermost_acorn_ui](https://github.com/randall-coding/mattermost-acorn/assets/39175191/7094f1dc-2304-43d5-ba0e-5c260b4ba009)
 
-![mattermost_endpoint]()
+![mattermost_endpoint](https://github.com/randall-coding/mattermost-acorn/assets/39175191/fee17478-bfe5-45bc-b807-94d8724c1a70)
 
 ## Configure Mattermost
 
 To begin, visit the server's endpoint url. You'll land on the initial page of Mattermost. You can continue by clicking "View in Browser".
 
-![mattermost-landing]()
+![mattermost_view_browser](https://github.com/randall-coding/mattermost-acorn/assets/39175191/234569ca-44cb-4259-ba51-df884f0f8586)
 
-This will take you to the Mattermost registration page.
+This will take you to the Mattermost registration page.  Fill out the form with your email address, username, and password.
 
-![mattermost-landing]()
-
-Fill out the form with your email address, username, and password.
-
-![mattermost-createaccount]()
+![mattermost_create_account](https://github.com/randall-coding/mattermost-acorn/assets/39175191/c83ab444-3f6e-4470-b1ac-2730b370b869)
 
 After registration, you will be directed to the team creation page, where you can enter your desired team name.
 
-![mattermost-createteam]()
+![mattermost_team_name](https://github.com/randall-coding/mattermost-acorn/assets/39175191/a6501d1d-c280-4854-b058-fcb894c6ad67)
 
 Finally, you will be taken to your newly created Team's Town Square chat.
 
-![mattermost-chat](https://github.com/randall-coding/mattermost-private/assets/23367718/51ecf6c1-adf9-44cb-a456-1b0a316d0f5c)
+![mattermost_chat](https://github.com/randall-coding/mattermost-acorn/assets/39175191/472f614d-6e27-46f8-9936-6ab6b89799c2)
 
 #### SMTP Configuration (Optional)
 
